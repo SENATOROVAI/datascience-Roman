@@ -178,7 +178,7 @@ Calculus:
 Калькулятор производных https://www.wolframalpha.com/input?i=derivative+x+sin%28x%5E2%29
 
 1 и 2 пункт делаем параллельно, каждую тему из видео нужно проработать на примерах из 3, 4, 5 пунктов.
-1) свой конспект сохранить в \Math\calculus\derivative\название_последней_темы_дата.pdf, https://www.youtube.com/watch?v=CQpX5f7iIvM&list=PLGtfmJuN1mTA_vI3eLT8jMTEeJ0YDIh-z 
+1) свой конспект сохранить в \Math\calculus\derivative\название_последней_темы_дата.pdf, https://www.youtube.com/watch?v=CQpX5f7iIvM&list=PLGtfmJuN1mTA_vI3eLT8jMTEeJ0YDIh-z
 2) https://www.youtube.com/watch?v=ZAiDxlBCW28&list=PLCx14LDfH033RANLVFVAdFIxFHhy1VXHr С 6 видео(производная)
 3) https://mooc.lektorium.tv/courses/course-v1:MKGTU+MA+2022_03/courseware/6678dff62a1a4b98953be096bc44f6ff/792ef0f7a3354ee0a955ac9407f3b469/?activate_block_id=block-v1%3AMKGTU%2BMA%2B2022_03%2Btype%40sequential%2Bblock%40792ef0f7a3354ee0a955ac9407f3b469
 4) https://www.matburo.ru/ex_ma.php?p1=maproiz первые 2 примера
