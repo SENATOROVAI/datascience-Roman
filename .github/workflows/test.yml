@@ -2,8 +2,6 @@ name: Convert .ipynb to .py
 
 on:
   push:
-    paths:
-      - '**/*.ipynb'
   pull_request:
     paths:
       - '**/*.ipynb'
