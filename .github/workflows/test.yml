@@ -22,11 +22,16 @@ jobs:
       - name: Convert .ipynb to .py
         run: |
           jupytext --to py **/*.ipynb
-
       - name: Commit and push changes
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
+          git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}
           git add . --all
           git commit -m "Convert notebooks to Python scripts"
           git push
+
+
+          
