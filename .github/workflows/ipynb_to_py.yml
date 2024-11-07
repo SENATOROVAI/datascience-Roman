@@ -1,4 +1,4 @@
-name: Convert .ipynb to .py
+name: SENATOROV
 permissions:
   contents: write
 on:
