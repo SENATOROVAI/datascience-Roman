@@ -1,5 +1,6 @@
 name: Convert .ipynb to .py
-
+permissions:
+  contents: write
 on:
   push:
   pull_request:
